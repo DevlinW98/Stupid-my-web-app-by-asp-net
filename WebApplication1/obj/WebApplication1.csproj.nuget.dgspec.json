@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vsook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
+        "projectName": "WebApplication1",
+        "projectPath": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\aea_s\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aea_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> main
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +39,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

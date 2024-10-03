@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "7b/svL63Rd7EK/iV1WiOibaIya1N8i2ZUsmkDLFPQWM=",
+=======
+  "Hash": "KQTIyOI37PBt5fIZ5HcJF8ocDhjpbqmITSikHhWXjBQ=",
+>>>>>>> main
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,17 +14,28 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.styles.css",
       "AssetKind": "All",
@@ -33,6 +48,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css"
     },
     {
@@ -40,6 +56,15 @@
       "SourceId": "WebApplication1",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WebApplication1.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "WebApplication1.bundle.scp.css",
       "AssetKind": "All",
@@ -52,6 +77,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
     },
     {
@@ -59,6 +85,15 @@
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "OriginalItemSpec": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\card-Approve.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/card-Approve.css",
       "AssetKind": "All",
@@ -74,10 +109,17 @@
       "OriginalItemSpec": "wwwroot\\css\\card-Approve.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\card-pop.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\card-pop.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/card-pop.css",
       "AssetKind": "All",
@@ -93,10 +135,17 @@
       "OriginalItemSpec": "wwwroot\\css\\card-pop.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\cardpost.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\cardpost.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/cardpost.css",
       "AssetKind": "All",
@@ -112,10 +161,17 @@
       "OriginalItemSpec": "wwwroot\\css\\cardpost.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\cardtest.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\cardtest.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/cardtest.css",
       "AssetKind": "All",
@@ -131,10 +187,17 @@
       "OriginalItemSpec": "wwwroot\\css\\cardtest.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\CreatorPost.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\CreatorPost.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/CreatorPost.css",
       "AssetKind": "All",
@@ -150,10 +213,17 @@
       "OriginalItemSpec": "wwwroot\\css\\CreatorPost.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\edit-post.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\edit-post.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/edit-post.css",
       "AssetKind": "All",
@@ -169,10 +239,17 @@
       "OriginalItemSpec": "wwwroot\\css\\edit-post.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\login.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\login.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -188,10 +265,17 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\Profile.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\Profile.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/Profile.css",
       "AssetKind": "All",
@@ -207,10 +291,17 @@
       "OriginalItemSpec": "wwwroot\\css\\Profile.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\site.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\css\\site.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -226,10 +317,17 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\favicon.ico",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\favicon.ico",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -245,10 +343,17 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\avartar1.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\avartar1.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "img/avartar1.png",
       "AssetKind": "All",
@@ -264,10 +369,17 @@
       "OriginalItemSpec": "wwwroot\\img\\avartar1.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\avartar2.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\avartar2.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "img/avartar2.png",
       "AssetKind": "All",
@@ -283,10 +395,17 @@
       "OriginalItemSpec": "wwwroot\\img\\avartar2.png"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\image1.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\image1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "img/image1.jpg",
       "AssetKind": "All",
@@ -302,10 +421,17 @@
       "OriginalItemSpec": "wwwroot\\img\\image1.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\login.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\login.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "img/login.jpg",
       "AssetKind": "All",
@@ -321,10 +447,17 @@
       "OriginalItemSpec": "wwwroot\\img\\login.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\register.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\img\\register.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "img/register.jpg",
       "AssetKind": "All",
@@ -340,10 +473,17 @@
       "OriginalItemSpec": "wwwroot\\img\\register.jpg"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\js\\login.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\js\\login.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -359,10 +499,17 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\js\\site.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\js\\site.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -378,10 +525,55 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -397,10 +589,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -416,10 +615,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -435,10 +641,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -454,10 +667,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -473,10 +693,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -492,10 +719,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -511,10 +745,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -530,10 +771,55 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -549,10 +835,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -568,10 +861,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -587,10 +887,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -606,10 +913,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -625,10 +939,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -644,10 +965,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -663,10 +991,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -682,10 +1017,93 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -701,10 +1119,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -720,10 +1145,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -739,10 +1171,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -758,10 +1197,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -777,10 +1223,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -796,10 +1249,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -815,10 +1275,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -834,6 +1301,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -990,6 +1458,12 @@
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1005,10 +1479,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1024,10 +1505,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1043,10 +1531,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1062,10 +1557,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1081,10 +1583,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1100,10 +1609,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1119,10 +1635,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1138,10 +1661,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1157,10 +1687,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1176,10 +1713,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1195,10 +1739,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1214,10 +1765,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1233,10 +1791,188 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/dist/jquery.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/dist/jquery.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/dist/jquery.min.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery/LICENSE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "lib/jquery-validation/LICENSE.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1252,10 +1988,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1271,10 +2014,17 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
       "Identity": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+=======
+      "Identity": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\wwwroot\\",
+>>>>>>> main
       "BasePath": "_content/WebApplication1",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
