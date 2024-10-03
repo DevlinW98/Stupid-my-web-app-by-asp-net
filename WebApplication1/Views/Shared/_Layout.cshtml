@@ -1,0 +1,83 @@
+﻿@{
+    var userName = ViewBag.UserName; // ดึงชื่อผู้ใช้จาก ViewBag
+    var userStatus = ViewBag.UserStatus;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplication1</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="Logozone">
+            <div class="hamburger">
+                <span class="line"></span>
+                <span class="line"></span>
+                <span class="line"></span>
+            </div>
+            <div class="logo">
+                <a asp-controller="Home" asp-action="Index">Joinex</a>
+            </div>
+            </div>
+
+            @if (ViewBag.userStatus == null){
+                <div class="dropdown">
+                    <a class="dropbtn user-btn" asp-controller="Login" asp-action="Index">Login</a>
+                    <button class="dropbtn icon-btn"><i class="fa-solid fa-key"></i></button>
+                </div>
+            }
+            else{
+                <div class="dropdown">
+                <button class="dropbtn user-btn">
+                    @userName
+                </button>
+                <button class="dropbtn icon-btn">
+                    <i class="fa-solid fa-user"></i>
+                    </button>
+                <div class="dropdown-content">
+                    <a asp-controller="Profile" asp-action="Index">Profile</a>
+                    <a asp-controller="Login" asp-action="Logout">Logout</a>
+                </div>
+                </div>
+
+            }
+            
+
+            
+        </nav>
+    </header>
+<main>
+    <div class="slidebar">
+        <a asp-area="" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-house"></i>Home</a>
+        @if (ViewBag.userStatus != null){
+        <a asp-controller="Post" asp-action="Index"> <i class="fa-solid fa-clipboard"></i> You Post</a>
+        <a asp-controller="Community" asp-action="Index"> <i class="fa-solid fa-users"></i> Atctivity</a>
+        <a asp-controller="Profile" asp-action="Index"> <i class="fa-solid fa-user"></i> Profile</a>
+        }
+    </div>
+    <div class="slidebar-mini">
+        <a asp-area="" asp-controller="Home" asp-action="Index"><i class="fa-solid fa-house"></i></a>
+        @if (ViewBag.userStatus != null){
+        <a asp-controller="Post" asp-action="Index"><i class="fa-solid fa-clipboard"></i></a>
+        <a asp-controller="Community" asp-action="Index"><i class="fa-solid fa-users"></i></a>
+        <a asp-controller="Profile" asp-action="Index"><i class="fa-solid fa-user"></i></a>
+        }
+    </div>
+
+        @RenderBody()
+</main>
+    <footer>
+        <p>For learning</p>
+    </footer> 
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

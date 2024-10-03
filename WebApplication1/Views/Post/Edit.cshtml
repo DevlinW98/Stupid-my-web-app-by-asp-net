@@ -1,0 +1,47 @@
+@model WebApplication1.Models.Post
+
+<link rel="stylesheet" href="~/css/edit-post.css">
+
+<div class="form-container">
+    <div class="form-card">
+        <h2>Edit Post</h2>
+        <form asp-action="Edit" method="post">
+            <div class="form-group">
+                <label asp-for="Post_name"></label>
+                <input asp-for="Post_name" class="form-control" />
+                <span asp-validation-for="Post_name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post_Detail"></label>
+                <textarea asp-for="Post_Detail" class="form-control"></textarea>
+                <span asp-validation-for="Post_Detail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Capacity"></label>
+                <input asp-for="Capacity" class="form-control" />
+                <span asp-validation-for="Capacity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Date"></label>
+                <input asp-for="Date" class="form-control" type="datetime-local" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Location"></label>
+                <select asp-for="Location" id="Location" class="form-control" required>
+                    <option value="Luck and Roll">Luck and Roll</option>
+                    <option value="KUMO cafe & board game">KUMO cafe & board game</option>
+                    <option value="KMITL Lifelong Learning Center">KMITL Lifelong Learning Center</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post_img"></label>
+                <input asp-for="Post_img" class="form-control" />
+                <span asp-validation-for="Post_img" class="text-danger"></span>
+            </div>
+            
+            <button type="submit" class="btn">Save Changes</button>
+            <a asp-action="Index" class="btn secondary-btn">Cancel</a>
+        </form>
+    </div>
+</div>
