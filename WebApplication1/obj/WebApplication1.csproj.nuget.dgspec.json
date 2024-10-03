@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
@@ -18,20 +19,27 @@
           "C:\\Users\\vsook\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
     "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {}
+=======
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj": {}
+>>>>>>> parent of af0cacd (Merge pull request #13 from jasonkob/changeDisplayPost)
   },
   "projects": {
-    "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj": {
+    "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
-        "packagesPath": "C:\\Users\\aea_s\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\aea_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
 >>>>>>> main
+=======
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> parent of af0cacd (Merge pull request #13 from jasonkob/changeDisplayPost)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +47,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

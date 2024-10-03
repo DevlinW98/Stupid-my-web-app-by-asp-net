@@ -45,11 +45,12 @@
                 });
             }, 5000); 
         });
+
     </script>
 }
 
 <div class="content">
-    @foreach (var post in Model.Where(p => p.Date > DateTime.Now)) {
+    @foreach (var post in Model) {
         <div class="card">
             <a href="#popup-@post.ID" class="card-link">
                 <img src="@post.Post_img" alt="Board game image">
