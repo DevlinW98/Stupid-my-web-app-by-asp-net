@@ -16,7 +16,7 @@
 {
 @if(Id == post.Post_by_id){
   <div class="card">
-    <a asp-controller="Post" asp-action="Delete_Post" asp-route-id="@post.ID" class="content-button" >&times;</a>
+    <a asp-controller="Post" asp-action="Delete_Post" asp-route-id="@post.ID" class="close-button" >&times;</a>
         <div class="card-content">
             <div class="card-image">
               <img src="@post.Post_img" alt="Image">
