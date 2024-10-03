@@ -16,7 +16,7 @@
     padding: 10px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow behind the card */
-    background-color: #fff; 
+    background-color: #ecf0ff; 
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
@@ -63,13 +63,13 @@ img {
     text-decoration: none;
     outline: none;
     color: #fff;
-    background-color: #666;
+    background-color: #ffb46d;
     border: none;
     border-radius: 5px;
     box-shadow: 0 4px #999;
 }
 
-.button:hover {background-color: #3e8e41}
+.button:hover {background-color: #c87425}
 
 .button:active {
     background-color: #3e8e41;
