@@ -23,7 +23,8 @@ namespace WebApplication1.Controllers
             int? userId = HttpContext.Session.GetInt32("ID");
             ViewBag.UserName = HttpContext.Session.GetString("UserName");
 
-            var posts = _db.Post.ToList();
+            var currentDate = DateTime.Now;
+            var posts = _db.Post.Where(p => p.Date > currentDate).ToList();
             var userIds = posts.Select(p => p.Post_by_id).Distinct().ToList();
             var usernames = _db.User
                 .Where(u => userIds.Contains(u.Id))
