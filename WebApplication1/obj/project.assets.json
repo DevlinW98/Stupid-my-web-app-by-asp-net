@@ -7636,11 +7636,21 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\vsook\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\aea_s\\.nuget\\packages\\": {}
+>>>>>>> main
+=======
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+>>>>>>> parent of af0cacd (Merge pull request #13 from jasonkob/changeDisplayPost)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
       "projectPath": "C:\\Github\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
@@ -7649,6 +7659,23 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vsook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Users\\aea_s\\Downloads\\Stupid-my-web-app-by-asp-net\\WebApplication1\\WebApplication1.csproj",
+=======
+      "projectUniqueName": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj",
+>>>>>>> parent of af0cacd (Merge pull request #13 from jasonkob/changeDisplayPost)
+      "projectName": "WebApplication1",
+      "projectPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\WebApplication1.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+<<<<<<< HEAD
+        "C:\\Users\\aea_s\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> main
+=======
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> parent of af0cacd (Merge pull request #13 from jasonkob/changeDisplayPost)
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
