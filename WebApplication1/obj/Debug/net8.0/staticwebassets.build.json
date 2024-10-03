@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PaWEalE0PaeAJC4+B7VZXtTIpX8wJtE2tZ/ZYW38Nco=",
+  "Hash": "YOuPtOULxLwZGMNI0prTIt6KU3SSDvWN7tl8PZyDjH0=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\CreatorPost.css"
+    },
+    {
+      "Identity": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\wwwroot\\css\\edit-post.css",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "css/edit-post.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\edit-post.css"
     },
     {
       "Identity": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\wwwroot\\css\\login.css",

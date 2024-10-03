@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\css\\cardtest.css"
     },
     {
+      "Id": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\wwwroot\\css\\edit-post.css",
+      "PackagePath": "staticwebassets\\css\\edit-post.css"
+    },
+    {
       "Id": "C:\\Users\\ADMIN\\Documents\\GitHub\\Stupid-my-web-app-by-asp-net1\\WebApplication1\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
